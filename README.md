@@ -1,6 +1,7 @@
 # Proyecto Cloaca (Unity2D)
 
 Proyecto Cloaca es un videojuego plataformero 2D hecho en Unity Engine y desarrollado por estudiantes del Centro de innovación y transferencia tecnológica [(CITT)](https://www.duoc.cl/escuela/informatica-telecomunicaciones/citt/) del instituto Duoc UC, específicamente los alumnos del Track de Videojuegos.
+
 ![](https://www.duoc.cl/wp-content/uploads/2021/05/logo-CITT.png)
 
 ## Especificaciones
